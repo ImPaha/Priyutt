@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Priyut</string>
+
+    <string name="main_menu">Главна</string>
+    <string name="social_menu">Форум</string>
+    <string name="list_menu">Рейтинг</string>
+    <string name="profile_menu">Профиль</string>
 </resources>
