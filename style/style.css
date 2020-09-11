@@ -99,7 +99,16 @@ p{
 .title{
     color: #4D4D4D;
     margin-top: 20px;
-    margin-left: 4px;
+    margin-left: 16px;
+}
+.a-line:hover{
+    color: #fff;
+}
+.full p{
+    color: #7058B6;
+    font-size: 32px;
+    margin-bottom: 10px;
+    text-align: center;
 }
 
 .catalog-card{
